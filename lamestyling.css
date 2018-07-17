@@ -6,12 +6,13 @@ p {
 }
 
 body {
-    background-image:url("burrito.jpg");
+    background-color: white;
+    background-image: url("burrito06.jpg");
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     }
 
     div.style1 {
         background-color: thistle; 
-        opacity: 0.6;
+		opacity: 0.75;
         text-align: center;
     }
